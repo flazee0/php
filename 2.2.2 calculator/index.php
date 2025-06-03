@@ -1,5 +1,4 @@
 <?php
-// Вычислительные функции остаются без изменений
 function calculateExpr($expr) {
     $expr = str_replace(' ', '', $expr);
     
